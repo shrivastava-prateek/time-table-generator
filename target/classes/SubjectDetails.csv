@@ -1,0 +1,17 @@
+Java,javagroup,development,1,4,1
+Hibernate,javagroup,development,2,3,1
+Rest,javagroup,development,2,2,1
+Spring,javagroup,development,2,4,1
+HTML&CSS,FrontEnd,development,1,2,1
+Javascript,FrontEnd,development,2,2,1
+Python,pythongroup,development,1,2,1
+SQL,sqlgroup,development,1,2,1
+GIT,gitgroup,development,1,1,0
+FullStack,FullStack,development,1,2,0
+Junit,Testing,development,1,1,1
+Manual Testing,Testing,qe,1,3,2
+basic_of_java,Testing,qe,1,1,1
+fundamentals_of_UI_Testing,Testing,qe,2,3,2
+Selenium,Testing,qe,2,6,2
+serverside_testing,Testing,qe,3,3,1
+Perl,Testing,qe,4,5,2
